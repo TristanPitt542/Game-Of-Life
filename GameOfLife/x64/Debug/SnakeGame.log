@@ -1,0 +1,47 @@
+﻿  Game.cpp
+  Gravity.cpp
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,57): warning C4244:         with
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,57): warning C4244:         [
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,57): warning C4244:             T=int
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,57): warning C4244:         ]
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,57): warning C4244:         and
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,57): warning C4244:         [
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,57): warning C4244:             T=float
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,57): warning C4244:         ]
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,45): warning C4244:         with
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,45): warning C4244:         [
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,45): warning C4244:             T=int
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,45): warning C4244:         ]
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,45): warning C4244:         and
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,45): warning C4244:         [
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,45): warning C4244:             T=float
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(68,45): warning C4244:         ]
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,62): warning C4244:         with
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,62): warning C4244:         [
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,62): warning C4244:             T=int
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,62): warning C4244:         ]
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,62): warning C4244:         and
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,62): warning C4244:         [
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,62): warning C4244:             T=float
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,62): warning C4244:         ]
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,50): warning C4244:         with
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,50): warning C4244:         [
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,50): warning C4244:             T=int
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,50): warning C4244:         ]
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,50): warning C4244:         and
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,50): warning C4244:         [
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,50): warning C4244:             T=float
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(74,50): warning C4244:         ]
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(35,20): warning C4996: 'sf::Text::setColor': was declared deprecated
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(47,20): warning C4996: 'sf::Text::setColor': was declared deprecated
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Game.cpp(110,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\main.cpp(4,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Spaceship.cpp
+D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\SnakeGame\Spaceship.cpp(53,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  SnakeGame.vcxproj -> D:\OneDrive - Teesside University\Year 2\Real Time Simulation\Orbit\x64\Debug\Orbit.exe

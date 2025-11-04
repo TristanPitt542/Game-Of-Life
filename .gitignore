@@ -1,0 +1,68 @@
+###############################
+# Visual Studio Build Files
+###############################
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.tlog
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# CMake intermediate files (if used)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.vspscc
+*.vssscc
+*.sdf
+*.db
+*.opensdf
+*.pdb
+
+# Auto-generated files
+*.idb
+*.ilk
+*.obj
+*.pch
+*.res
+*.exp
+*.lib
+*.exe
+*.dll
+
+###############################
+# Visual Studio Folders
+###############################
+.vs/
+.vscode/
+Debug*/
+Release*/
+x64/
+x86/
+ARM*/
+ARM64*/
+
+###############################
+# SFML or External Libs
+###############################
+# Don’

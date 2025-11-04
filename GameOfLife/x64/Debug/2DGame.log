@@ -1,0 +1,29 @@
+﻿D:\VisualStudio\IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Orbit.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bullet.cpp
+  Player.cpp
+  main.cpp
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(26,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(31,89): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(31,89): warning C4244:         with
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(31,89): warning C4244:         [
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(31,89): warning C4244:             T=float
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(31,89): warning C4244:         ]
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(31,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(31,76): warning C4244:         with
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(31,76): warning C4244:         [
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(31,76): warning C4244:             T=float
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(31,76): warning C4244:         ]
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(36,89): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(36,89): warning C4244:         with
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(36,89): warning C4244:         [
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(36,89): warning C4244:             T=float
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(36,89): warning C4244:         ]
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(36,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(36,76): warning C4244:         with
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(36,76): warning C4244:         [
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(36,76): warning C4244:             T=float
+C:\Users\Trist\Desktop\game\2DGame\main.cpp(36,76): warning C4244:         ]
+  Generating Code...
+  2DGame.vcxproj -> C:\Users\Trist\Desktop\game\x64\Debug\2DGame.exe

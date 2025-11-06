@@ -4,14 +4,6 @@ Cell::Cell(sf::Vector2f position, bool isAlive, int cellSize) : m_cellPosition(p
 {
 }
 
-void Cell::CheckNeighbors(std::vector<std::shared_ptr<Cell>> cells)
-{
-	for (auto cell : cells)
-	{
-
-	}
-}
-
 void Cell::Render(sf::RenderWindow &window)
 {
 	m_cellShape.setSize(m_cellSize);

@@ -2,26 +2,25 @@
   Button.cpp
 C:\Users\Trist\Desktop\GameOfLife\GameOfLife\Button.cpp(21,9): warning C4996: 'sf::Text::setColor': was declared deprecated
   main.cpp
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(26,84): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(26,84): warning C4244:         with
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(26,84): warning C4244:         [
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(26,84): warning C4244:             T=float
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(26,84): warning C4244:         ]
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(27,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(27,84): warning C4244:         with
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(27,84): warning C4244:         [
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(27,84): warning C4244:             T=float
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(27,84): warning C4244:         ]
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(37,92): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(37,92): warning C4244:         with
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(37,92): warning C4244:         [
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(37,92): warning C4244:             T=float
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(37,92): warning C4244:         ]
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(37,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(37,67): warning C4244:         with
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(37,67): warning C4244:         [
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(37,67): warning C4244:             T=float
-C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(37,67): warning C4244:         ]
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(80,84): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(80,84): warning C4244:         with
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(80,84): warning C4244:         [
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(80,84): warning C4244:             T=float
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(80,84): warning C4244:         ]
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(81,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(81,84): warning C4244:         with
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(81,84): warning C4244:         [
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(81,84): warning C4244:             T=float
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(81,84): warning C4244:         ]
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(93,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(93,77): warning C4244:         with
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(93,77): warning C4244:         [
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(93,77): warning C4244:             T=float
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(93,77): warning C4244:         ]
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(93,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(93,52): warning C4244:         with
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(93,52): warning C4244:         [
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(93,52): warning C4244:             T=float
+C:\Users\Trist\Desktop\GameOfLife\GameOfLife\main.cpp(93,52): warning C4244:         ]
   Generating Code...
   GameOfLife.vcxproj -> C:\Users\Trist\Desktop\GameOfLife\x64\Debug\2DGame.exe

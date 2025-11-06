@@ -13,8 +13,10 @@ protected:
 	sf::Font font;
 	
 public:
-	sf::FloatRect buttonBounds = sf::FloatRect(m_buttonPositon.x,m_buttonPositon.y,m_buttonSize.x, m_buttonSize.y);
+	sf::FloatRect buttonBounds = sf::FloatRect(m_buttonPositon.x - (m_buttonSize.x/2),m_buttonPositon.y - (m_buttonSize.y / 2),m_buttonSize.x, m_buttonSize.y);
 	sf::Color m_buttonColor = sf::Color(220,220,220);
+
+	void SetButtonText(std::string text) { m_buttonText = text; };
 
 	Button(std::string text, sf::Vector2f position);
 	void Render(sf::RenderWindow &window);

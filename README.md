@@ -2,7 +2,7 @@ A simple interactive implementation of Conway’s Game of Life, built using C++ 
 This program simulates the evolution of cells based on Conway’s famous rules with controls to toggle cells, start/pause the simulation, and reset the grid.
 Interactive Grid: Click on cells to toggle them between alive and dead.
 
-![Adobe Express - 2025-11-06 07-30-28](https://github.com/user-attachments/assets/2dc148ea-e359-40c7-9b47-4051b39247f6)
+https://github.com/user-attachments/assets/2dc148ea-e359-40c7-9b47-4051b39247f6
 
  * Simulation Control: Start or pause the Game of Life simulation at any time.
 
